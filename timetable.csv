@@ -1,0 +1,11 @@
+batch,day,start_time,end_time,subject,room,instructor
+CSE-A,Monday,09:00,10:00,Artificial Intelligence,A101,Dr Sharma
+CSE-A,Monday,10:00,11:00,Database Management Systems,A102,Prof Rao
+CSE-A,Monday,11:30,12:30,Computer Networks,A103,Dr Mehta
+CSE-A,Tuesday,09:00,10:00,Java Programming,B201,Prof Nair
+CSE-A,Tuesday,10:00,11:00,Machine Learning,B202,Dr Shah
+CSE-A,Wednesday,09:00,10:00,Operating Systems,C101,Prof Iyer
+CSE-B,Monday,09:00,10:00,Python Programming,A201,Dr Das
+CSE-B,Monday,10:30,11:30,Data Structures,A202,Prof Sen
+CSE-B,Tuesday,09:00,10:00,Computer Networks,B101,Dr Mehta
+CSE-B,Wednesday,11:00,12:00,Artificial Intelligence,C201,Dr Sharma
